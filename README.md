@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Check out my [newest project link](https://weatherly-zivile-a.netlify.app/), you can read more about it [here.](https://github.com/zivile-a/weather-app)
+### Check out my project [here](https://weatherly-zivile-a.netlify.app/)
 <!--
 **zivile-a/zivile-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
